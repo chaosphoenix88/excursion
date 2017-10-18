@@ -18,8 +18,21 @@ html {
     color:white;
 }
 
+a {
+    color:aquamarine;
+    font-size:16px;
+    text-align: center;
+    display: block;
+}
+
 p {
     font-family: Verdana;
     font-size: 21px;
     color:grey;
+}
+
+footer {
+    text-align: Right;
+    color:Gray;
+    font-family: Verdana;
 }
